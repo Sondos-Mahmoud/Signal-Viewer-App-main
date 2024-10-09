@@ -20,14 +20,13 @@ The Signal Viewer App provides the following features:
 - Pause: Pauses the movement of signals in the selected channel.
 - Reset: Resets the selected channel to its initial state.
 - Zoom In: Zooms in on the signals in the selected channel.
-- Zoom Out: Zooms out from the signals in the selected channel.![337760068-a276d6b3-e061-4580-ad3c-06cb34f8e73b](https://github.com/user-attachments/assets/ee74d275-5929-4b93-ae6e-49d3324bb9ac)
-
+- Zoom Out: Zooms out from the signals in the selected channel.
 - Move Left: Shifts the signals in the selected channel to the left.
 - Move Right: Shifts the signals in the selected channel to the right.
 - Speed Up: Increases the movement speed of signals in the selected channel.
 - Slow Down: Decreases the movement speed of signals in the selected channel.
-![mash](https://github.com/sbme-tutorials/task1-signal-view![Uploading 337760068-a276d6b3-e061-4580-ad3c-06cb34f8e73b.png…]()
-er-dsp_fall23_task1_team4/assets/115077795/42322912-f2ea-487b-8208-c5efaa519209)
+![Uploading 337760068-a276d6b3-e061-4580-ad3c-06cb34f8e73b.png…]()
+
 
 ### Keyboard Shortcuts
 Each feature in the Signal Viewer App is associated with a keyboard shortcut for convenient access.
