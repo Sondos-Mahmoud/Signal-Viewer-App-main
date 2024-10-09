@@ -24,9 +24,9 @@ The Signal Viewer App provides the following features:
 - Move Left: Shifts the signals in the selected channel to the left.
 - Move Right: Shifts the signals in the selected channel to the right.
 - Speed Up: Increases the movement speed of signals in the selected channel.
-- Slow Down: Decreases the movement speed o![Uploading 337760068-a276d6b3-e061-4580-ad3c-06cb34f8e73b.png…]()
-f signals in the selected channel.
+- Slow Down: Decreases the movement speed of signals in the selected channel.
 
+![image](https://github.com/user-attachments/assets/55b38e4b-2bbd-4c80-b9be-700fbe2ed1b6)
 
 ### Keyboard Shortcuts
 Each feature in the Signal Viewer App is associated with a keyboard shortcut for convenient access.
